@@ -1,0 +1,17 @@
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.deps.json
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.json
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.runtimeconfig.dev.json
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.Tests.pdb
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.dll
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/bin/Debug/netcoreapp2.2/Calendar.pdb
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csprojAssemblyReference.cache
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CoreCompileInputs.cache
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfoInputs.cache
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.AssemblyInfo.cs
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.csproj.CopyComplete
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.dll
+/Users/danaluukko/Desktop/Calendar.Solution/Calendar.Tests/obj/Debug/netcoreapp2.2/Calendar.Tests.pdb
